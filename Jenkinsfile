@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/aaravgadekar005/bit1BI23CS005.git'
+                git branch: 'master', url: 'git 'https://github.com/aaravgadekar005/bit1BI23CS005.git'
             }
         }
 
